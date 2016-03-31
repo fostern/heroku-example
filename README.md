@@ -1,0 +1,1 @@
+This repository contains a dummy webpage to serve using heroku for COMP 20 Lab 8. 

@@ -1,0 +1,44 @@
+body{
+	font-family: georgia;
+	color: white;
+}
+
+button{
+    background-color: #1E90FF; /*blue*/
+    border: none;
+    color: white;
+    padding: 10px 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 15px;
+}
+
+#element1{
+	text-align: center;
+}
+
+.tagline{
+	font-style: italic;
+}
+
+#element2{
+	float: left;
+}
+
+#drummer{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+}
+
+#element4{
+	float:right;
+}
+
+#label{
+	font-size: 14px;
+	font-style: italic;
+}
